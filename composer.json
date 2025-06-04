@@ -1,0 +1,14 @@
+{
+    "name": "pcgo\/sistema-recognicao",
+    "description": "Sistema de Recogni\u00e7\u00e3o Visuogr\u00e1fica - PCGO",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "tecnickcom/tcpdf": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes\/"
+        }
+    }
+}
